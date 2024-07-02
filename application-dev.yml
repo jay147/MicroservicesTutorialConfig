@@ -1,6 +1,6 @@
 spring:
  application:
-  name: Config-Dev
+  name: USER-SERVICE
 eureka:
   instance:
     ip-address: true
